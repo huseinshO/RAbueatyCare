@@ -104,6 +104,15 @@
 .navbar-nav .nav-link {
     display: block;
 }
+.navbar-brand img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    padding: 2px;
+    background: #fff;
+}
 
 .fixed-top {
     width: 100%;
